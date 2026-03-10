@@ -8,6 +8,7 @@ Ollama is a free way to chat with models such as Llama 3.2 or gpt-oss-120b after
 **1.** Need Python installed
 
 2. Need the following installed via ```pip install``` or ```uv add```
+3. 
   openai module
 
   gradio module
