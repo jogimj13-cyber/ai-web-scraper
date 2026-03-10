@@ -2,18 +2,17 @@
 
 ## Features
 This project uses **ollama** to generate a **brochure** about a **company** given two things: a **URL** and a **Company name**.
-Ollama is a free way to chat with models such as Llama 3.2 or gpt-oss-120b after downloading them.
+
+Ollama is a **free** way to chat with models such as **Llama 3.2** or **gpt-oss-120b** after downloading them.
 
 ## Requirements
 **1.** Need Python installed
 
 2. Need the following installed via ```pip install``` or ```uv add```
-3. 
-  openai module
+ 
+  **openai** module
 
-  gradio module
-  
-  json module
+  **gradio** module
 
 3. Need ollama installed
 
